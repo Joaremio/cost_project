@@ -1,0 +1,23 @@
+.footer{
+    background-color: #222;
+    color: #FFF;
+    padding: 3rem;
+    text-align: center;
+    margin-top: auto; /* Empurra o Footer para o final */
+    width: 100%;
+    margin-top: auto; /* Empurra o Footer para o final da página */
+}
+
+.social_list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.social_list li{
+    margin: 0 1em;
+}
+
+.social_list li:hover{
+    background-color: yellow;
+}
